@@ -1,3 +1,4 @@
+<h1 align="center">Hey There!, I'm Ruwanthi.👋</h1>
 <h3 align="left">Third year Computer Science Undergraduate at University of Colombo School of Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruwanthi123&label=Profile%20views&color=0e75b6&style=flat" alt="ruwanthi123" /> </p>
